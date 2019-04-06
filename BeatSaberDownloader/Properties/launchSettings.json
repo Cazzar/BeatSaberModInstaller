@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeatSaberDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "modsaber://avatar/https://modelsaber.com/files/avatar/1549765223/Black%20Heart%20%28white-green%29.avatar"
+    }
+  }
+}
